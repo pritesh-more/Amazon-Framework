@@ -1,0 +1,7 @@
+13:35:36.585 [main] INFO  resources.base - Initialized Browser
+13:35:36.776 [main] INFO  resources.base - 'Today's Deals' label is matched
+13:35:39.103 [main] INFO  resources.base - Label Validation Test Completed
+13:36:30.742 [main] INFO  resources.base - Initialized Browser
+13:36:35.511 [main] INFO  resources.base - Clicked on Computer Accessories
+13:36:43.905 [main] INFO  resources.base - Product added to cart
+13:36:44.027 [main] INFO  resources.base - Accessories Added to Cart Test Completed

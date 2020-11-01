@@ -1,0 +1,7 @@
+13:37:29.412 [main] INFO  resources.base - Initialized Browser
+13:37:49.948 [main] INFO  resources.base - Cart is empty checked
+13:37:52.309 [main] INFO  resources.base - Cart Empty Test Completed
+13:38:07.958 [main] INFO  resources.base - Initialized Browser
+13:38:13.422 [main] INFO  resources.base - Clicked on Sign-In
+13:38:15.702 [main] INFO  resources.base - Credentials sent and submitted
+13:38:18.042 [main] INFO  resources.base - Sign In Test Completed

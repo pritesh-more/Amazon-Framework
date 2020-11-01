@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="Amazon.Listeners"/>
+</listeners>
+
+  <test thread-count="5" name="Label Validation">
+    <classes>
+      <class name="Amazon.HomePage"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Accessories add to cart">
+    <classes>
+      <class name="Amazon.Accessories"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Empty cart validation">
+    <classes>
+      <class name="Amazon.CartValidation"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Sign In Validation">
+    <classes>
+      <class name="Amazon.SignInValidation"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
